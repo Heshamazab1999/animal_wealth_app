@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="75.925" height="86" viewBox="0 0 75.925 86">
+  <defs>
+    <filter id="Path_8" x="0" y="0" width="75.925" height="86" filterUnits="userSpaceOnUse">
+      <feOffset dx="3" dy="4" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-color="#047940" flood-opacity="0.231"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Previous_button" data-name="Previous button" transform="translate(6 5)">
+    <g transform="matrix(1, 0, 0, 1, -6, -5)" filter="url(#Path_8)">
+      <path id="Path_8-2" data-name="Path 8" d="M67.715,0C48.937,0,21.9,15.222,21.9,34s27.042,34,45.82,34S77.821,52.778,77.821,34,86.493,0,67.715,0Z" transform="translate(-15.9 5)" fill="#047940"/>
+    </g>
+    <text id="إضافة" transform="translate(28.962 38.5)" fill="#fff" font-size="15" font-family="Cairo" font-weight="700" letter-spacing="0.086em"><tspan x="-16.99" y="0">إضافة</tspan></text>
+  </g>
+</svg>
